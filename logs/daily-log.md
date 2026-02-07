@@ -975,3 +975,27 @@ Swap:          4.0Gi          0B       4.0Gi
 
 ----------------------------------------
 
+## 📊 DevOps Daily System Report — 2026-02-07 03:40:19
+
+### 🖥 Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        72G   50G   23G  70% /
+tmpfs           7.9G   84K  7.9G   1% /dev/shm
+tmpfs           3.2G  1.1M  3.2G   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+efivarfs        128M   26K  128M   1% /sys/firmware/efi/efivars
+/dev/sda16      881M   62M  758M   8% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+/dev/sdb1        74G  4.1G   66G   6% /mnt
+tmpfs           1.6G   12K  1.6G   1% /run/user/1001
+
+### 🧠 Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       877Mi       9.2Gi        40Mi       5.9Gi        14Gi
+Swap:          4.0Gi          0B       4.0Gi
+
+### ⚙️ CPU Info
+ 03:40:19 up 2 min,  0 user,  load average: 0.26, 0.24, 0.09
+
+----------------------------------------
+
