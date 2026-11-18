@@ -7552,3 +7552,30 @@ Swap:          3.0Gi          0B       3.0Gi
 
 ----------------------------------------
 
+## 📊 DevOps Daily System Report — 2026-11-18 08:53:08
+
+### 🖥 Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       145G   58G   88G  40% /
+tmpfs           7.9G     0  7.9G   0% /dev/shm
+tmpfs           3.2G  1.1M  3.2G   1% /run
+efivarfs        128M   32K  128M   1% /sys/firmware/efi/efivars
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/sda13      989M   80M  842M   9% /boot
+/dev/sda15      105M  6.3M   99M   7% /boot/efi
+none            1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs           1.6G  8.0K  1.6G   1% /run/user/1001
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none            1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+
+### 🧠 Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       880Mi        14Gi        41Mi       882Mi        14Gi
+Swap:          3.0Gi          0B       3.0Gi
+
+### ⚙️ CPU Info
+ 08:53:08 up 1 min,  0 users,  load average: 0.88, 0.47, 0.18
+
+----------------------------------------
+
